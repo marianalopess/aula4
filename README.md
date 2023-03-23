@@ -4,5 +4,9 @@
 
 Comando para rodar o exercício 1:
 ```
-npm run 1
+npm run um
+```
+Comando para rodar o exercício 2:
+```
+npm run dois
 ```
